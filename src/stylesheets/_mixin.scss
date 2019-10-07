@@ -1,0 +1,69 @@
+//引用方式：@include rounded(10px);
+@mixin rounded($radius) {
+     -webkit-border-radius: $radius;
+        -moz-border-radius: $radius;
+             border-radius: $radius;
+}
+@mixin boxshadow($hshadow:0, $vshadow:0, $blur:10px, $spread:10px, $color:#000, $inset:inset ){
+    @if $inset != inset {
+        -webkit-box-shadow: $hshadow $vshadow $blur $spread $color $inset;
+        -moz-box-shadow: $hshadow $vshadow $blur $spread $color $inset;
+        -ms-box-shadow: $hshadow $vshadow $blur $spread $color $inset;
+        -o-box-shadow: $hshadow $vshadow $blur $spread $color $inset;
+        box-shadow: $hshadow $vshadow $blur $spread $color $inset;
+        color:red;
+    }@else{
+        -webkit-box-shadow: $hshadow $vshadow $blur $spread $color;
+        -moz-box-shadow: $hshadow $vshadow $blur $spread $color;
+        -ms-box-shadow: $hshadow $vshadow $blur $spread $color;
+        -o-box-shadow: $hshadow $vshadow $blur $spread $color;
+        box-shadow: $hshadow $vshadow $blur $spread $color;
+    }
+}
+
+@mixin shadow-inset($x, $y, $blur, $color) {
+    -webkit-box-shadow: inset $x $y $blur $color;
+        -moz-box-shadow: inset $x $y $blur $color;
+            box-shadow: inset $x $y $blur $color;
+}
+// transition
+@mixin transition($property:all,$duration:0.5s,$timing:ease){
+    -webkit-transition:$property $duration $timing;
+    -moz-transition:$property $duration $timing;
+    -ms-transition:$property $duration $timing;
+    -o-transition:$property $duration $timing;
+    transition:$property $duration $timing;
+}
+//盒模型
+@mixin box-sizing {
+-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
+
+@mixin font_color($color){/*通过该函数设置字体颜色，后期方便统一管理；*/
+	color:$color;
+  [data-theme="theme1"] & {
+    color:$font-color-theme1;
+  }
+  [data-theme="theme2"] & {
+    color:$font-color-theme2;
+  }
+  [data-theme="theme3"] & {
+    color:$font-color-theme3;
+  }
+}
+@mixin bg_color($color){/*通过该函数设置主题颜色，后期方便统一管理；*/
+  background-color:$color;
+  [data-theme="theme1"] & {
+    background-color:$background-color-theme1;
+  }
+  [data-theme="theme2"] & {
+    background-color:$background-color-theme2;
+  }
+  [data-theme="theme3"] & {
+    background-color:$background-color-theme3;
+  }
+}
+
+

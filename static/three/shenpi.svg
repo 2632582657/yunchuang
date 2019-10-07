@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>shenpi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-233.000000, -317.000000)" stroke="#FF6565" stroke-width="3">
+            <g id="Group-5-Copy" transform="translate(233.000000, 317.000000)">
+                <g id="Group-7">
+                    <path d="M4.078125,31.0961538 L28.546875,31.0961538" id="Line-11" stroke-linecap="square"></path>
+                    <path d="M11.252814,10.1538462 C10.8771161,9.38916065 10.6658654,8.52722632 10.6658654,7.61538462 C10.6658654,4.46098903 13.1939498,1.90384615 16.3125,1.90384615 C19.4310502,1.90384615 21.9591346,4.46098903 21.9591346,7.61538462 C21.9591346,8.52722632 21.7478839,9.38916065 21.372186,10.1538462 L11.252814,10.1538462 Z" id="Combined-Shape"></path>
+                    <path d="M4.00961538,19.2692308 L4.00961538,26.4230769 L28.6153846,26.4230769 L28.6153846,19.2692308 L21.3994302,19.2692308 L20.6819596,14.8269231 L11.9699693,14.8269231 L11.3462417,19.2692308 L4.00961538,19.2692308 Z" id="Rectangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

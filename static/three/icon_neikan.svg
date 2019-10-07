@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_neikan</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-569.000000, -476.000000)" stroke="#2AA1E1" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 245.000000)">
+                <g id="icon_neikan" transform="translate(489.000000, 231.000000)">
+                    <path d="M3.5,3.5 L3.5,30.5 L30.5,30.5 L30.5,3.5 L3.5,3.5 Z" id="Rectangle"></path>
+                    <path d="M9.31707317,9.38209794 L9.31707317,26.1463415" id="Line-11" stroke-linecap="square"></path>
+                    <path d="M15.1707317,12.9756098 L15.1707317,25.8462271" id="Line-11-Copy" stroke-linecap="square"></path>
+                    <path d="M20.9329268,19.3944836 L25.5060976,24.8494188" id="Line-11-Copy-2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>gonggaoguanli</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="团队管理" transform="translate(-234.000000, -777.000000)" stroke="#4278BE" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 546.000000)">
+                <g id="icon_gonggao" transform="translate(154.000000, 231.000000)">
+                    <path d="M8,10 L8,19" id="Line-10" stroke-linecap="square"></path>
+                    <polyline id="Path" points="8.26355128 19.0019267 4 19.0019267 4 9.71704995 8.26355128 9.71704995 15.9253016 5 15.965785 14.7552519"></polyline>
+                    <polygon id="Polygon" points="22 15 28.9282032 19 28.9282032 27 22 31 15.0717968 27 15.0717968 19"></polygon>
+                    <circle id="Oval" cx="22" cy="23" r="2"></circle>
+                    <path d="M19,9 L22,6" id="Line-8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

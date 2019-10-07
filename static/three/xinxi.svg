@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>xinxi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-120.000000, -798.000000)" stroke="#4278BE" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 245.000000)">
+                <g id="Group-10" transform="translate(40.000000, 553.000000)">
+                    <rect id="Rectangle" x="2.5" y="3.5" width="27" height="27"></rect>
+                    <path d="M9.65384615,10.6538462 L22.3461538,10.6538462" id="Line-2" stroke-linecap="square"></path>
+                    <path d="M9.65384615,17.5769231 L22.3461538,17.5769231" id="Line-2" stroke-linecap="square"></path>
+                    <path d="M9.65384615,24.5 L22.3461538,24.5" id="Line-2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

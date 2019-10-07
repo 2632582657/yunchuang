@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body,h1,h3,h2,h4,h5,h6,p,
+dl,dt,dd,ul,li,ol,th,td,tr,form,input,textarea,legend,
+select,fieldset,img,section,article,aside,header,nav,footer{
+	margin:0; 
+	padding:0;
+	@include box-sizing;
+}  
+body{
+	font-size:14px;
+	font-family:"微软雅黑";
+	font-weight: 400;
+	color:#666;
+	background:$base-bgcolor;
+	overflow-x:hidden;
+	overflow-y:scroll;
+}
+
+a,
+a:hover,
+a:active,
+a:visited,
+a:link,
+a:focus {
+	color:#484751;
+	text-decoration:none; 
+	background: none;
+	outline: none;
+}
+a:visited{ color:#666;}
+a:hover,a:active { color:#ff8400;}
+
+input,textarea{
+	outline:none;
+  background-repeat: no-repeat;
+}
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+  -webkit-appearance: none;
+  outline: none;
+}
+/* 谷歌 */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    appearance: none; 
+}
+/* 火狐 */
+input[type="number"] {
+    -moz-appearance:textfield;
+}
+/* 表单框中placeholder */
+input::placeholder,
+input::-webkit-input-placeholder,
+input::-moz-placeholder,
+input::-ms-input-placeholder,
+textarea::placeholder,
+textarea::-ms-input-placeholder 
+textarea::-webkit-input-placeholder,
+textarea::-moz-placeholder
+{
+  color: #C5C5C5;
+  font-size:20px;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  @include boxshadow(0, 0, 0, 16px, #fff, inset);
+}
+
+table{border-collapse:collapse;border-spacing:0;}
+
+fieldset{ border:0;}
+
+img,a img{ display:block; border:none;}
+em,i{font-style:normal;}
+
+ul,ol,dl,li{list-style:none;}
+b,h1,h2,h3,h4,h5,h6,caption,th,strong{font-weight:normal;}
+
+article,aside,details,figcaption,figure,footer,
+header,hgroup,main,menu,nav,section,summary {
+  display: block;
+}
+
+audio,canvas,progress,video {
+  display: inline-block;
+}
+
+.clear:after{
+	content:"";
+	clear:both;
+	display:block;
+	height:0;
+	overflow:hidden;
+	visibility:hidden;
+}
+
+

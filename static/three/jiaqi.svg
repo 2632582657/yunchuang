@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>jiaqi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-685.000000, -317.000000)" stroke="#FF6565" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 245.000000)">
+                <g id="Group-8" transform="translate(605.000000, 72.000000)">
+                    <path d="M3.85714286,3.85714286 L3.85714286,28.124992 L9.48572768,25.0775805 L16.5195522,28.9330376 L23.5815691,25.0765776 L29.1428571,28.1143224 L29.1428571,3.85714286 L3.85714286,3.85714286 Z" id="Rectangle"></path>
+                    <polyline id="Path" stroke-linecap="square" transform="translate(16.183766, 13.040909) rotate(-45.000000) translate(-16.183766, -13.040909) " points="21.8953044 15.7714902 10.4722275 15.7714902 10.4722275 10.3103274"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

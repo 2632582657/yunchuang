@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>zhuanban</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-233.000000, -960.000000)" stroke="#FFBD38" stroke-width="2.8125">
+            <g id="Group-19" transform="translate(80.000000, 245.000000)">
+                <g id="Group-16" transform="translate(153.000000, 715.000000)">
+                    <rect id="Rectangle" x="2.40625" y="3.40625" width="27.1875" height="27.1875"></rect>
+                    <polyline id="Line-15" stroke-linecap="square" points="7.09375 14.65625 23.03125 14.65625 19.0768585 11.0641785"></polyline>
+                    <polyline id="Line-15" stroke-linecap="square" transform="translate(16.937500, 21.297714) scale(-1, -1) translate(-16.937500, -21.297714) " points="8.96875 23.09375 24.90625 23.09375 20.9518585 19.5016785"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

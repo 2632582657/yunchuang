@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>jiaqiguanli</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="团队管理" transform="translate(-685.000000, -618.000000)" stroke="#4FBE96" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 546.000000)">
+                <g id="jiaqi" transform="translate(605.000000, 72.000000)">
+                    <polyline id="Path" points="10.6462941 20.4935065 3.35714286 24.3571429 3.35714286 3.35714286 24.3571429 3.35714286 24.3571429 12.0359426"></polyline>
+                    <polyline id="Path" stroke-linecap="square" points="17.3571429 9.35714286 11.9447218 14.3571429 9.35714286 11.9667349"></polyline>
+                    <polygon id="Polygon" points="22 14 28.9282032 18 28.9282032 26 22 30 15.0717968 26 15.0717968 18"></polygon>
+                    <circle id="Oval" cx="22" cy="22" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

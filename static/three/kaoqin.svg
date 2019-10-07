@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>kaoqin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-120.000000, -317.000000)" stroke="#FFBD38" stroke-width="3">
+            <g id="Group-11" transform="translate(120.000000, 317.000000)">
+                <path d="M16.5,29.8269231 C23.6923077,21.9529711 27.2884615,16.0298942 27.2884615,12.0576923 C27.2884615,6.09938953 22.4583028,1.26923077 16.5,1.26923077 C10.5416972,1.26923077 5.71153846,6.09938953 5.71153846,12.0576923 C5.71153846,16.0298942 9.30769231,21.9529711 16.5,29.8269231 Z" id="Oval"></path>
+                <polyline id="Path" points="22.6950549 12.6923077 16.5 12.6923077 16.5 5.71153846"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

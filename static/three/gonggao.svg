@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>gonggao</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-234.000000, -476.000000)" stroke="#4278BE" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 245.000000)">
+                <g id="icon_gonggao" transform="translate(154.000000, 231.000000)">
+                    <path d="M7.25,11.6354167 L7.25,24.2976074" id="Line-10" stroke-linecap="square"></path>
+                    <polygon id="Path" points="2.33333333 24.6515688 2.33333333 11.1099022 8.29166667 11.1099022 18.9989994 4.23025047 19.1033908 30.4826183 8.29166667 24.6515688"></polygon>
+                    <path d="M23.7916667,10.8390688 L28.5910238,6.03971173" id="Line-8"></path>
+                    <path d="M23.7538452,27.7881045 L28.5532023,22.9887474" id="Line-8-Copy" transform="translate(26.153524, 25.388426) rotate(-270.000000) translate(-26.153524, -25.388426) "></path>
+                    <path d="M23.7916667,16.7974022 L30.9856771,16.7974022" id="Line-9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

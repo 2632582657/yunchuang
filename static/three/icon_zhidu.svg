@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_zhidu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OA三个点展开" transform="translate(-459.000000, -476.000000)" stroke="#FFBD38" stroke-width="3">
+            <g id="Group-19" transform="translate(80.000000, 245.000000)">
+                <g id="icon_zhidu" transform="translate(379.000000, 231.000000)">
+                    <path d="M2.5,13.2248346 L2.5,30.3667414 L29.5,30.3667414 L29.5,13.2248346 L2.5,13.2248346 Z" id="Rectangle"></path>
+                    <path d="M16,4.14766832 L7.32981029,13.0319299 L24.6701897,13.0319299 L16,4.14766832 Z" id="Rectangle"></path>
+                    <path d="M18.2670288,17.797731 C17.6917859,17.5209424 17.0469312,17.3658537 16.3658537,17.3658537 C13.9411889,17.3658537 11.9756098,19.3314328 11.9756098,21.7560976 C11.9756098,24.1807623 13.9411889,26.1463415 16.3658537,26.1463415 C18.7905184,26.1463415 20.7560976,24.1807623 20.7560976,21.7560976 M19.7628856,18.9748096 C19.5684446,18.7376017 19.3496468,18.5211271 19.1103127,18.3292061" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
